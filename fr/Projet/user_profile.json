@@ -1,0 +1,42 @@
+{
+    "favorite_colors": [
+        [
+            "really light blue",
+            5
+        ],
+        [
+            "cloudy blue",
+            2
+        ],
+        [
+            "windows blue",
+            2
+        ]
+    ],
+    "favorite_orientations": [
+        [
+            "paysage",
+            7
+        ]
+    ],
+    "favorite_sizes": [
+        [
+            "grande",
+            9
+        ]
+    ],
+    "favorite_tags": [
+        [
+            "",
+            6
+        ],
+        [
+            "bleu",
+            2
+        ],
+        [
+            "jaune",
+            1
+        ]
+    ]
+}
